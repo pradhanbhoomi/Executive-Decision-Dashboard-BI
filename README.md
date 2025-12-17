@@ -7,8 +7,6 @@ This project delivers an **executive decision dashboard** that synthesizes sales
 
 The dashboard is designed with a **consulting-first mindset** — focusing not on data complexity, but on **clarity, relevance, and decisions**.
 
----
-
 ## Problem Context
 
 Leadership teams often face challenges due to:
@@ -23,17 +21,14 @@ The objective of this project was to design a **single, executive-level dashboar
 2. What is driving or constraining profitability?
 3. Where should leadership focus immediate action?
 
----
-
 ## Data Overview
 
 * **Dataset:** Retail / E-commerce (Superstore – Kaggle)
+*  https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset?
 * **Scope:** Sales, profitability, products, regions, and customer segments
 * **Granularity:** Transaction-level data aggregated for executive use
 
 The dataset was cleaned and structured to ensure consistency, accuracy, and decision-ready metrics.
-
----
 
 ## Key Performance Indicators
 
@@ -49,8 +44,6 @@ The dashboard tracks a focused set of leadership-relevant KPIs:
 
 Each KPI was selected to directly support strategic evaluation rather than operational reporting.
 
----
-
 ## Dashboard Architecture
 
 ### 1. CEO Overview
@@ -63,8 +56,6 @@ Provides a consolidated snapshot of overall business health:
 
 **Objective:** Enable leadership to assess performance status within seconds.
 
----
-
 ### 2. Product & Customer Insights
 
 Examines the underlying drivers of performance:
@@ -74,8 +65,6 @@ Examines the underlying drivers of performance:
 * Revenue contribution by customer segment
 
 **Objective:** Highlight profit drivers and areas requiring optimization.
-
----
 
 ### 3. Executive Decision View
 
@@ -90,15 +79,11 @@ Translates analysis into action:
 
 **Objective:** Support clear prioritization and leadership action.
 
----
-
 ## Key Insights
 
 * Profitability is concentrated within a limited set of categories and products, suggesting targeted scaling opportunities.
 * Certain high-revenue segments operate with constrained margins, indicating pricing or cost-efficiency levers.
 * Clear differentiation exists between areas suitable for immediate investment versus those requiring corrective action.
-
----
 
 ## Strategic Recommendations
 
@@ -107,8 +92,6 @@ Translates analysis into action:
 * Review low-performing products for restructuring, re-pricing, or exit.
 * Align marketing and growth initiatives with the most profitable customer segments.
 
----
-
 ## Tools & Approach
 
 * **Power BI:** Executive dashboard design and visualization
@@ -116,8 +99,6 @@ Translates analysis into action:
 * **Excel:** Data cleaning and validation
 
 The approach mirrors a consulting engagement — from problem framing to insight generation and strategic recommendation.
-
----
 
 ## Outcome
 
